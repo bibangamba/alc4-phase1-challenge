@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="welcome_to_alc_4_0">Welcome to ALC 4.0</string>
+    <string name="track_label">Track:</string>
+    <string name="android">Android</string>
+    <string name="country">Country:</string>
+    <string name="email">Email:</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="slack_username">Slack Username:</string>
+    <string name="bibangamba">\@bibangamba</string>
+    <string name="fake_phone">+256771234567</string>
+    <string name="email_address">andrewbibangamba@gmail.com</string>
+    <string name="uganda">Uganda</string>
+    <string name="andrew_twijukye">Andrew Twijukye</string>
+    <string name="alc_url">https://andela.com/alc/</string>
+</resources>
